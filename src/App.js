@@ -3,6 +3,9 @@ import './App.css';
 import Greet  from './components/Greet';
 import Message from './components/Message';
 import Button from './components/Button';
+import helloServices from './services/helloServices';
+import Hello from './components/Hello';
+import Employee from './components/Employee';
 
 function App() {
   return (
@@ -12,6 +15,8 @@ function App() {
         <p>
           hatdog
         </p>
+        <p>{Hello()}</p>
+        <Employee/>
         <Greet name="Liam">
           <Message/>
         </Greet>
