@@ -6,23 +6,22 @@ import Button from './components/Button';
 import helloServices from './services/helloServices';
 import Hello from './components/Hello';
 import Employee from './components/Employee';
+import vinyl from './imports/vinyl.png';
+import abbey from './imports/abbeyroad.jpg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          hatdog
-        </p>
+        <img src={vinyl} className="App-logo" alt="vinyl" />
         <p>{Hello()}</p>
         <Employee/>
-        <Greet name="Liam">
+        <Button/>
+        {/* <Greet name="Liam">
           <Message/>
         </Greet>
-        <Greet name="Sir Bryan">
-        <Button/>
-        </Greet>
+        <Greet name="Sir Bryan">  
+        </Greet> 
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -30,7 +29,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
       </header>
     </div>
   );

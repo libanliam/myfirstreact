@@ -23,13 +23,13 @@ const Employee = () => {
 
     return(
         <div>
-            <h3>List of Employees</h3>
+            <h3>Members</h3>
             <div>
                 <table border = "1">
                     <tr>
                         <td>Name</td>
-                        <td>Department</td>
-                        <td>Location</td>
+                        <td>Nickname</td>
+                        <td>Instrument</td>
                     </tr>
                      {
                          employees.map(
