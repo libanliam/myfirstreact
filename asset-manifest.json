@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/myfirstreact/static/css/main.98f4002e.chunk.css",
-    "main.js": "/myfirstreact/static/js/main.c48172ca.chunk.js",
-    "main.js.map": "/myfirstreact/static/js/main.c48172ca.chunk.js.map",
-    "runtime-main.js": "/myfirstreact/static/js/runtime-main.b51bec99.js",
-    "runtime-main.js.map": "/myfirstreact/static/js/runtime-main.b51bec99.js.map",
-    "static/js/2.2ae8625b.chunk.js": "/myfirstreact/static/js/2.2ae8625b.chunk.js",
-    "static/js/2.2ae8625b.chunk.js.map": "/myfirstreact/static/js/2.2ae8625b.chunk.js.map",
-    "static/js/3.62f0cb17.chunk.js": "/myfirstreact/static/js/3.62f0cb17.chunk.js",
-    "static/js/3.62f0cb17.chunk.js.map": "/myfirstreact/static/js/3.62f0cb17.chunk.js.map",
+    "main.css": "/myfirstreact/static/css/main.50229241.chunk.css",
+    "main.js": "/myfirstreact/static/js/main.b9d523a8.chunk.js",
+    "main.js.map": "/myfirstreact/static/js/main.b9d523a8.chunk.js.map",
+    "runtime-main.js": "/myfirstreact/static/js/runtime-main.7702a21d.js",
+    "runtime-main.js.map": "/myfirstreact/static/js/runtime-main.7702a21d.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/myfirstreact/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.f903f10b.chunk.js": "/myfirstreact/static/js/2.f903f10b.chunk.js",
+    "static/js/2.f903f10b.chunk.js.map": "/myfirstreact/static/js/2.f903f10b.chunk.js.map",
+    "static/js/3.121430b4.chunk.js": "/myfirstreact/static/js/3.121430b4.chunk.js",
+    "static/js/3.121430b4.chunk.js.map": "/myfirstreact/static/js/3.121430b4.chunk.js.map",
     "index.html": "/myfirstreact/index.html",
-    "static/css/main.98f4002e.chunk.css.map": "/myfirstreact/static/css/main.98f4002e.chunk.css.map",
-    "static/js/2.2ae8625b.chunk.js.LICENSE.txt": "/myfirstreact/static/js/2.2ae8625b.chunk.js.LICENSE.txt",
+    "static/css/2.d8cb5cde.chunk.css.map": "/myfirstreact/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.50229241.chunk.css.map": "/myfirstreact/static/css/main.50229241.chunk.css.map",
+    "static/js/2.f903f10b.chunk.js.LICENSE.txt": "/myfirstreact/static/js/2.f903f10b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/myfirstreact/static/media/abbeyroad.acc329a8.jpg",
+    "static/media/background2.e0f5730a.jpg": "/myfirstreact/static/media/background2.e0f5730a.jpg",
+    "static/media/background3.0f91693a.jpg": "/myfirstreact/static/media/background3.0f91693a.jpg",
     "static/media/logo.6ce24c58.svg": "/myfirstreact/static/media/logo.6ce24c58.svg",
     "static/media/vinyl.be67a8a2.png": "/myfirstreact/static/media/vinyl.be67a8a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b51bec99.js",
-    "static/js/2.2ae8625b.chunk.js",
-    "static/css/main.98f4002e.chunk.css",
-    "static/js/main.c48172ca.chunk.js"
+    "static/js/runtime-main.7702a21d.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.f903f10b.chunk.js",
+    "static/css/main.50229241.chunk.css",
+    "static/js/main.b9d523a8.chunk.js"
   ]
 }
