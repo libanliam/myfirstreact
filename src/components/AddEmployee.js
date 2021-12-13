@@ -24,7 +24,7 @@ const AddEmployee = () =>{
                 )
                 .catch(
                     error =>{
-                        console.errror("error")
+                        console.error("error")
                     }
                 )
             }
@@ -78,6 +78,7 @@ const AddEmployee = () =>{
                         <label for="name" className="form-label">Name</label>
                         <input type="text" 
                         className="form-control" 
+                        value={name}
                         id="name"
                         placeholder="Add band member's name"
                         onChange={
@@ -91,6 +92,7 @@ const AddEmployee = () =>{
                         <label for="name" className="form-label">Nickname</label>
                         <input type="text" 
                         className="form-control" 
+                        value={department}
                         id="name"
                         placeholder="Add band member's nickname"
                         onChange={
@@ -104,6 +106,7 @@ const AddEmployee = () =>{
                         <label for="name" className="form-label">Instrument</label>
                         <input type="text" 
                         className="form-control" 
+                        value={location}
                         id="name"
                         placeholder="Add band member's main instrument"
                         onChange={
