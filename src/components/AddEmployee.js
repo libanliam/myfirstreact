@@ -39,7 +39,7 @@ const AddEmployee = () =>{
             .then(
                 response =>{
                     console.log("updated employee!", response.data)
-                    navigate("/employees")
+                    navigate("/myfirstreact/employees")
                 }
             )
             .catch(
@@ -54,7 +54,7 @@ const AddEmployee = () =>{
         .then(
             response =>{
                 console.log("Added new member!", response.data)
-                navigate("/employees")
+                navigate("/myfirstreact/employees")
             }
         )
         .catch(
